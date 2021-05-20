@@ -1,0 +1,9 @@
+ps -aux | grep "razzle"
+sudo kill 312
+sudo kill 313
+sudo kill 314
+sudo kill 315
+sudo kill 316
+sudo kill 317
+sudo kill 2731
+ps -aux | grep "razzle"
