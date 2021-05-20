@@ -1,0 +1,4 @@
+ps -aux | grep "totally_not_malicious"
+sudo kill 311
+sudo kill 318
+ps -aux | grep "totally_not_malicious"
